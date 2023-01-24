@@ -251,7 +251,7 @@
         <sourceConnection xsi:type="archimate:Connection" id="id-a52a4955c6be4cabad6cc36e59fdaa76" source="id-6deb68b8cae946eaba129221121ae9b0" target="id-be7cc34f575d44d2896be46c5b21385d" archimateRelationship="id-96895b33f2344a358f9b8b95a815143f"/>
       </child>
       <child xsi:type="archimate:Note" id="id-d4d6b5f760f94cfc9653cd0e329f0138" targetConnections="id-49f1270e99a8460ba2c5cc1cbe1ad1b4" textAlignment="1">
-        <bounds x="403" y="228" width="133" height="38"/>
+        <bounds x="390" y="240" width="133" height="31"/>
         <content>Besoin de syncro. API ?</content>
       </child>
     </element>

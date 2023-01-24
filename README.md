@@ -22,7 +22,7 @@ Signification des abréviation utilisés
 | ID Application | Nom Application                   | Description                                                  |
 | -------------- | --------------------------------- | ------------------------------------------------------------ |
 | WEB_ERS        | WebApp - ERS                      | IHM sous forme de WebApp permettant d'accéder aux fonctionnalités de l'ERS |
-| PORT_ERS       | Portail Backend - ERS             | Portail backend permettant de regrouper, transformer et valider les requêtes qui seront ensuites transmises aux différents micro-services par l'intermédiaire de l'API Gateway. |
+| PORT_ERS       | Portail Backend - ERS             | Portail backend permettant de regrouper, transformer et valider les requêtes qui seront ensuite transmises aux différents micro-services par l'intermédiaire de l'API Gateway. |
 | BSNS_PMS       | Patient Management Service        | Business service - Création et suivi des informations sur les patients |
 | BSNS_EMS       | Emergency Management Service      | Business service - Création et suivi des urgences médicales  |
 | BSNS_HMS       | Hospital Management Service       | Business service - Suivi des informations sur les hôpitaux*  |
